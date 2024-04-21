@@ -1,0 +1,19 @@
+#sidebar-layout {
+    display: flex;
+    position: relative;
+    padding: 19px 30px;
+    flex-direction: column;
+}
+
+#sidebar-head-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+#back-arrow {
+    width: 23.5px;
+    right: 3px;
+    top: 22px;
+    position: absolute;
+}

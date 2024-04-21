@@ -1,0 +1,29 @@
+@font-face {
+    font-family: AvertaBold; 
+    src: url('../../../assets/averta-bold.otf');
+}
+
+.bg-grey {
+    background-color: #F7F7F9 !important;
+}
+
+.wth-ft-cntnt {
+    width: fit-content;
+    min-width: 260px !important;
+}
+
+.min-hght-100vh {
+    min-height: 100vh;
+}
+
+.md-title {
+    margin: 0px 0px 0px 0.5rem !important;
+    letter-spacing: 0.15px !important;
+    font-family: AvertaBold, sans-serif;
+    font-size: 1.45rem !important;
+    color: #4C4E64DE !important; 
+    font-weight: 700 !important;
+    line-height: 1.2 !important; 
+    transition: opacity 0.25s ease-in-out 0s, margin 0.25s ease-in-out 0s !important;
+    opacity: 1;
+}
